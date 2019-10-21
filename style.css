@@ -1,0 +1,18 @@
+body {
+    background-image: url(resources/images/bg_yellowhalftone.jpg);
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: -15% -40%;
+    background-attachment: scroll;
+}
+h1 {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: purple;
+}
+li {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-variant: small-caps;
+    padding: 3px;
+    text-align: center;
+}
