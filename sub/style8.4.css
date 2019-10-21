@@ -1,0 +1,54 @@
+table {
+    border-width: 3px;
+    border-style: solid;
+    border-color: silver;
+    background-color: #eef5d2;
+    width: 600px;
+}
+td.head {
+    background-color: #f1db8d;
+    border: 3px dashed brown;
+    text-align: center;
+    padding: 20px 25px 0px;
+    font-size: 24px;
+    font-weight: bold;
+}
+td.head2 {
+    background-color: #f1db8d;
+    border: 3px dashed brown;
+    text-align: center;
+    padding: 20px 25px 0px 5px;
+    font-size: 24px;
+    font-weight: bold;
+}
+td.names {
+    border: 3px dotted silver;
+    padding: 5px;
+    font-size: 24px;
+}
+td.times {
+    border: 3px dotted silver;
+    padding: 5px;
+    font-size: 24px;
+}
+td.medal {
+    border: 3px dotted silver;
+    text-align: center;
+    padding: 5px;
+    font-size: 24px;
+}
+td.country {
+    border: 3px dotted silver;
+    text-align: right;
+    padding: 5px;
+    font-size: 24px;
+}
+#gold {
+    background-color: gold;
+}
+#silver {
+    background-color: silver;
+}
+#bronze {
+    background-color: #cd7f32;
+}
